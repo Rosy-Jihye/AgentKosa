@@ -1,6 +1,10 @@
 team: KT
 
+<<<<<<< HEAD
 manager: 오오오
+=======
+manager: 이얏호
+>>>>>>> ecd2cca25232e75425e672aa335c3b5b5dfb05dd
 
 members:
 - 고영표
